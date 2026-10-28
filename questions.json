@@ -1,0 +1,75 @@
+{
+  "heading": "G9NZ_Ask, Test, Discover-II",
+  "topics": [
+    {
+      "heading": "Ask, Test, Discover-II",
+      "questions": [
+        {
+          "questionNo": 1,
+          "section": "short",
+          "marks": 3,
+          "question": ["Describe the difference between a hypothesis and a scientific theory."],
+          "text_area": "",
+          "answer": ["A hypothesis is a testable prediction about what we expect to happen in a scientific investigation. It is based on scientific questions and can be tested by collecting evidence.<br>A scientific theory is a well-supported scientific explanation that is supported by extensive evidence from repeated investigations."]
+        },
+        {
+          "questionNo": 2,
+          "section": "short",
+          "marks": 3,
+          "question": ["What is the purpose of the results section in a scientific investigation?<br>Describe two ways data can be processed or presented."],
+          "text_area": "",
+          "answer": ["The results section records the observations and measurements collected during the investigation. It presents the data without explaining or interpreting what the results mean.<br>Two ways data can be processed or presented: Tables, Graphs"]
+        },
+        {
+          "questionNo": 3,
+          "section": "short",
+          "marks": 3,
+          "question": ["Explain the difference between quantitative and qualitative data.<br>Give one example of each."],
+          "text_area": "",
+          "answer": ["Quantitative data are data that involve numerical measurements. They can be measured and expressed using numbers.<br>Example: The temperature of water is 40℃.<br><br>Qualitative data are data that describe observations without numerical measurements.<br>Example: The solution changes from blue to green."]
+        },
+        {
+  "questionNo": 4,
+  "section": "short",
+  "marks": 3,
+  "question": [
+    "A student needs to carry out an investigation at 25℃. The student measures the temperature of a sample three times and records 20.0℃, 20.1℃ and 20.0℃.<br><img width='35%' src='./assests/images/8.png'><br>Answer the following:<br>(a) Are the measurements reliable? Explain your answer.<br>(b)Are the measurements accurate? Explain your answer."],
+  "text_area": "",
+  "answer": ["Yes, the measurements are reliable because the results are very close to each other: 20.0℃, 20.1℃ and 20.0℃. This shows that the measurements are consistent.<br>No, the measurements are not accurate because the required temperature is 25℃, but the measurements are around 20℃. Accuracy refers to how close a measurement is to the true or accepted value. "]
+},
+        {
+          "questionNo": 5,
+          "section": "short",
+          "marks": 3,
+            "question": ["A student repeats an investigation several times.<br>Explain why repeated trials are used and how they improve the reliability of the results."],
+            "text_area": "",
+            "answer": ["Repeated trials are used to check whether similar results are obtained each time. If the results are similar, they are more reliable because reliability means that the results are consistent when the investigation is repeated under the same conditions."]
+        },
+        {
+          "questionNo": 6,
+          "section": "short",
+          "marks": 3,
+          "question": ["Give one reason why scientific graphs are usually drawn in pencil.<br><img width='35%' src='./assests/images/9.png'>"],
+          "text_area": "",
+          "answer": ["Scientific graphs are usually drawn in pencil so that mistakes can be easily erased and corrected."]
+        },
+        {
+          "questionNo": 7,
+          "section": "short",
+          "marks": 3,
+          "question": ["Outline the key features of a well-constructed scientific graph."],
+           "text_area": "",
+          "answer": ["A well-constructed scientific graph should:<br>Use a sharp HB pencil.<br>Use a suitable scale so the graph uses at least 50% of the graph paper.<br>Have a clear title describing the data.<br>Have both axes clearly labelled, including the variable and its unit.<br>Place the independent variable on the x-axis.<br>Place the dependent variable on the y-axis.<br>Use a suitable scale; do not automatically start at zero.<br>Plot all data points accurately.<br>Use a suitable line or curve to show the relationship between the variables.<br><img width='35%' src='./assests/images/10.png'>"]
+        },
+        {
+          "questionNo": 8,
+           "section": "long",
+          "marks": 5,
+          "question": ["A student investigates how the height from which a ball is dropped affects the height of its first bounce.<br>Complete the following sections of the scientific investigation: Aim, Hypothesis, Variables, method, Evaluation, Conclusion<br> Result: The student records the following results.<br><img width='35%' src='./assests/images/1.png'>"],
+          "text_area": "",
+          "answer": ["<b>Aim:</b> To investigate how the height from which a ball is dropped affects the height of its first bounce. <br><b>Hypothesis:</b> If the drop height increases, then the height of the first bounce will also increase. <br><b>Variables:</b><br><b>Independent variable:</b> Drop height of the ball (cm).  <br><b>Dependent variable:</b> Height of the first bounce (cm). <br><b>Controlled variable:</b> The same ball is used for each trial. <br><b>Method:</b> <br>Place the ball at a measured height above the ground.<br>Drop the ball without pushing it.<br>Measure the height of its first bounce.<br>Repeat the experiment three times for each drop height.<br>Record the results in a table and calculate the mean bounce height.<br>Repeat for drop heights of 20, 40, 60, 80 and 100 cm.<br><b>Result:</b> The student records the following results<br><img width='35%' src='./assests/images/11.png'><br><br><b>Evaluation:</b> The repeated trials gave similar results for each drop height, so the results are reasonably reliable. However, some variation occurred between trials. The investigation could be improved by using a more accurate method to measure the maximum bounce height and ensuring the ball is released from exactly the same position each time. <br><b>Conclusion:</b> The results support the hypothesis. As the drop height increased, the height of the ball’s first bounce also increased. "]
+        }
+      ]
+    }
+  ]
+}
